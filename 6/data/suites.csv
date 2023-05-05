@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri May 05 17:22:26 GMT 2023","Fri May 05 17:22:26 GMT 2023","131","","","user endpoints","","","fetch user list",""
+"passed","Fri May 05 17:22:27 GMT 2023","Fri May 05 17:22:27 GMT 2023","345","","","create user endpoints","","","create user",""
+"passed","Fri May 05 17:22:26 GMT 2023","Fri May 05 17:22:27 GMT 2023","39","","","user endpoints","","","fetch a single user",""
+"passed","Fri May 05 17:22:27 GMT 2023","Fri May 05 17:22:28 GMT 2023","698","","","create user and delete user endpoints","","","create user and delete User",""
+"skipped","Fri May 05 17:22:28 GMT 2023","Fri May 05 17:22:28 GMT 2023","0","","","","","","create user",""
