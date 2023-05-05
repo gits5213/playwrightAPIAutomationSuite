@@ -1,4 +1,4 @@
-name: playwrightapiautomation-allure-report
+name: playwrightapiautomation-allure-report-cicd
 
 on: [ push ]
 
