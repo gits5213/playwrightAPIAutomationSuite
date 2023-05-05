@@ -1,0 +1,110 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "mds-MacBook-Pro.fios-router.home",
+    "children" : [ {
+      "name" : "mds-MacBook-Pro.fios-router.home-22677-playwright-worker--1",
+      "children" : [ {
+        "name" : "create user",
+        "uid" : "118da1fe476cc04f",
+        "parentUid" : "1d627276bc634fba8907b6d9ab0a6e15",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1683305436501,
+          "stop" : 1683305436503,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1d627276bc634fba8907b6d9ab0a6e15"
+    }, {
+      "name" : "mds-MacBook-Pro.fios-router.home-22677-playwright-worker-0",
+      "children" : [ {
+        "name" : "fetch user list",
+        "uid" : "3f900054fc96e318",
+        "parentUid" : "7e0e81b400aeee195597531a783bccc3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683305438353,
+          "stop" : 1683305438754,
+          "duration" : 401
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "fetch a single user",
+        "uid" : "150771bcc6da9fc0",
+        "parentUid" : "7e0e81b400aeee195597531a783bccc3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683305438756,
+          "stop" : 1683305439007,
+          "duration" : 251
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7e0e81b400aeee195597531a783bccc3"
+    }, {
+      "name" : "mds-MacBook-Pro.fios-router.home-22677-playwright-worker-2",
+      "children" : [ {
+        "name" : "create user and delete User",
+        "uid" : "45388693607cec7d",
+        "parentUid" : "8708e7eb3af7cad8d1a3ffbfb6974b17",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683305438220,
+          "stop" : 1683305439116,
+          "duration" : 896
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8708e7eb3af7cad8d1a3ffbfb6974b17"
+    }, {
+      "name" : "mds-MacBook-Pro.fios-router.home-22677-playwright-worker-1",
+      "children" : [ {
+        "name" : "create user",
+        "uid" : "9ea4ba43bc202c82",
+        "parentUid" : "d7aea9832b9669c55f638011e5232c5e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683305438288,
+          "stop" : 1683305438968,
+          "duration" : 680
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d7aea9832b9669c55f638011e5232c5e"
+    } ],
+    "uid" : "f30d0b3940d65470fb6ac99347fc6916"
+  } ]
+}

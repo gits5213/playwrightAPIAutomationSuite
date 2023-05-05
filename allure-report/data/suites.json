@@ -1,0 +1,102 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "create user",
+    "uid" : "118da1fe476cc04f",
+    "parentUid" : "98d3104e051c652961429bf95fa0b5d6",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1683305436501,
+      "stop" : 1683305436503,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "create user and delete user endpoints",
+    "children" : [ {
+      "name" : "create user and delete User",
+      "uid" : "45388693607cec7d",
+      "parentUid" : "a1746ea569010017a4699388e343f4eb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683305438220,
+        "stop" : 1683305439116,
+        "duration" : 896
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "a1746ea569010017a4699388e343f4eb"
+  }, {
+    "name" : "create user endpoints",
+    "children" : [ {
+      "name" : "create user",
+      "uid" : "9ea4ba43bc202c82",
+      "parentUid" : "94abced1e5aa35c3960dfe783bef48fd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683305438288,
+        "stop" : 1683305438968,
+        "duration" : 680
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "94abced1e5aa35c3960dfe783bef48fd"
+  }, {
+    "name" : "user endpoints",
+    "children" : [ {
+      "name" : "fetch user list",
+      "uid" : "3f900054fc96e318",
+      "parentUid" : "c2d5023ae91f592ec944cf398314a7fb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683305438353,
+        "stop" : 1683305438754,
+        "duration" : 401
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "fetch a single user",
+      "uid" : "150771bcc6da9fc0",
+      "parentUid" : "c2d5023ae91f592ec944cf398314a7fb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683305438756,
+        "stop" : 1683305439007,
+        "duration" : 251
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "c2d5023ae91f592ec944cf398314a7fb"
+  } ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "playwrightapiautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "ui-mode": "npx playwright test --ui",
+    "report": "allure generate allure-results --clean -o allure-report && allure open allure-report"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.33.0",
+    "allure-playwright": "^2.2.1",
+    "odottaa": "^1.1.14"
+  }
+}

@@ -1,0 +1,51 @@
+[ {
+  "uid" : "45388693607cec7d",
+  "name" : "create user and delete User",
+  "time" : {
+    "start" : 1683305438220,
+    "stop" : 1683305439116,
+    "duration" : 896
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "118da1fe476cc04f",
+  "name" : "create user",
+  "time" : {
+    "start" : 1683305436501,
+    "stop" : 1683305436503,
+    "duration" : 2
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "3f900054fc96e318",
+  "name" : "fetch user list",
+  "time" : {
+    "start" : 1683305438353,
+    "stop" : 1683305438754,
+    "duration" : 401
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9ea4ba43bc202c82",
+  "name" : "create user",
+  "time" : {
+    "start" : 1683305438288,
+    "stop" : 1683305438968,
+    "duration" : 680
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "150771bcc6da9fc0",
+  "name" : "fetch a single user",
+  "time" : {
+    "start" : 1683305438756,
+    "stop" : 1683305439007,
+    "duration" : 251
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

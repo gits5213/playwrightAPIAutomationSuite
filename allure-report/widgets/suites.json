@@ -1,0 +1,37 @@
+{
+  "total" : 4,
+  "items" : [ {
+    "uid" : "c2d5023ae91f592ec944cf398314a7fb",
+    "name" : "user endpoints",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "a1746ea569010017a4699388e343f4eb",
+    "name" : "create user and delete user endpoints",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "94abced1e5aa35c3960dfe783bef48fd",
+    "name" : "create user endpoints",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}
